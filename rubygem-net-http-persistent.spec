@@ -4,7 +4,7 @@
 #
 Name     : rubygem-net-http-persistent
 Version  : 2.9.4
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/net-http-persistent-2.9.4.gem
 Source0  : https://rubygems.org/downloads/net-http-persistent-2.9.4.gem
 Summary  : No detailed summary available
